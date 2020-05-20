@@ -1,0 +1,1 @@
+To run this put a pre-trained yolo weight model in the floder data. 
